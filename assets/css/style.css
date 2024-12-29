@@ -247,6 +247,11 @@ img {
     bottom: 24px;
 }
 
+.imageBan {
+    width: 3rem;
+}
+
+
 /* CONTACT */
 #contact {
     position: relative;
